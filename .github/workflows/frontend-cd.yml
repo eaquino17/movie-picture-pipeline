@@ -11,7 +11,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: mp-frontend
+  ECR_REPOSITORY: frontend
   REACT_APP_MOVIE_API_URL: http://localhost:5000
 
 jobs:
