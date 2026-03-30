@@ -469,3 +469,21 @@ kustomize build | kubectl apply -f -
 ## License
 
 [License](LICENSE.md)
+
+## Submission Evidence
+
+### GitHub Actions Workflows
+- Backend CI workflow implemented
+- Backend CD workflow implemented
+- Frontend CI workflow implemented
+- Frontend CD workflow implemented
+
+### Application Evidence
+- Frontend screenshot: `screenshots/frontend.png`
+- Backend screenshot: `screenshots/backend.png`
+- GitHub Actions screenshot: `screenshots/githubActions.png`
+
+### Notes
+- Both frontend and backend applications were deployed successfully.
+- The backend `/movies` endpoint returns the expected movie list.
+- Screenshots are included as submission evidence.
