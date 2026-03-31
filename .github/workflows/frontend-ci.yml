@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  REACT_APP_MOVIE_API_URL: http://a33bdbac20fd64b6195fb454ad6db9ea-593090130.us-east-1.elb.amazonaws.com
+  REACT_APP_MOVIE_API_URL: http://a92084d4cdcad4ff8904b15ce822cc69-406414608.us-east-1.elb.amazonaws.com
 
 jobs:
   lint:
